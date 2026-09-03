@@ -3,7 +3,7 @@
 EasyCloud机场官网地址</br>
 官方地址：[]()</br>
 ## 邀请码
-``bash
+```bash
 LZj0frG8
 ```
 ## 优惠码
