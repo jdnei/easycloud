@@ -27,8 +27,8 @@ EasyCloud 是一家主打高性价比的网络加速服务商，主要采用专�
 | **時間停止** | ¥ 76.00 / 一次性 | 300 GB（不限时/不重置） | 阿里BGP（2x工单切换） | 支持（同月付规格） | 不限设备（仅限本人） | 不可重复买/用完重买；本地网络导入；江苏/泉州可能受限 |
 ## 📊 性能实测与分析
 #### 1.晚高峰测速表现
-![image](?raw=ture)</br>
+![image](https://github.com/jdnei/easycloud/blob/main/easycloud/34952894274398cmcc.jpg?raw=ture)</br>
 #### 2.流媒体解锁报告
-![image](?raw=ture)</br>  
+![image](https://github.com/jdnei/easycloud/blob/main/easycloud/958324095832test.png?raw=ture)</br>  
 #### 3.落地入口分析
-![image](?raw=ture)</br>
+![image](https://github.com/jdnei/easycloud/blob/main/easycloud/430958320948502ana.png?raw=ture)</br>
