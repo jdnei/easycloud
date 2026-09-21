@@ -1,5 +1,5 @@
 
-# EasyCloud机场官方地址(2026年9月20日更新)
+# EasyCloud机场官方地址(2026年9月21日更新)
 EasyCloud机场官网地址</br>
 官方地址：[dash.yiku.xyz](https://dash.yiku.xyz/#/register?code=LZj0frG8)</br>
 ## 邀请码
