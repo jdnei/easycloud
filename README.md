@@ -1,7 +1,9 @@
+🇨🇳 中文 | 🇺🇸 [English](README_EN.md) | 🇷🇺 
+[Русский](README_RU.md) | 🇮🇷 [فارسی](README_FA.md)
 
 # EasyCloud机场官方地址(2026年11月2日更新)
 EasyCloud机场官网地址</br>
-官方地址：[dash.yiku.xyz](https://dash.yiku.xyz/#/register?code=LZj0frG8)</br>
+官方地址：[dash.yiku.xyz](https://to.iix.im/easy01)</br>
 ## 邀请码
 ```bash
 LZj0frG8
