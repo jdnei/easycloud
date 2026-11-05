@@ -1,6 +1,6 @@
  🇨🇳 [中文](README.md) | 🇺🇸 [English](README_EN.md) | 🇷🇺 [Русский](README_RU.md) | 🇮🇷 فارسی
 
-# وب‌سایت رسمی EasyCloud VPN(به‌روزرسانی 4 نوامبر 2026)
+# وب‌سایت رسمی EasyCloud VPN(به‌روزرسانی 5 نوامبر 2026)
 وب‌سایت رسمی EasyCloud VPN<br>
 آدرس رسمی: [dash.yiku.xyz](https://to.iix.im/easy01)<br>
 
